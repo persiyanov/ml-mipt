@@ -1,12 +1,4 @@
 #!/usr/bin/env bash
-#Code adapted from https://gist.github.com/yangj1e/3641843c758201ebbc6c (Modified to Python3.5)
-
-#cd ~
-#wget https://3230d63b5fc54e62148e-c95ac804525aac4b6dba79b00b39d1d3.ssl.cf1.rackcdn.com/Anaconda2-2.4.0-Linux-x86_64.sh
-#wget https://3230d63b5fc54e62148e-c95ac804525aac4b6dba79b00b39d1d3.ssl.cf1.rackcdn.com/Anaconda3-2.4.1-Linux-x86_64.sh
-#bash Anaconda3-2.4.1-Linux-x86_64.sh -b
-#echo 'PATH="/home/ubuntu/anaconda3/bin:$PATH"' >> .bashrc
-#. .bashrc
 
 jupyter notebook --generate-config
 
