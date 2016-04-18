@@ -113,6 +113,7 @@ Activate your virtual environment.
 
 Install XGBoost:
 ```bash
+sudo apt-get update & upgrade
 sudo apt-get install git make g++ python-setuptools
 git clone --recursive https://github.com/dmlc/xgboost
 cd xgboost
