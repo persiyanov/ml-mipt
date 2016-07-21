@@ -181,7 +181,7 @@ Now you can connect to Jupyter and run your notebooks at EC2 instance! But that'
 ## tmux
 We want to off our computer or disconnect from the Internet but preserve computing our models on EC2 instance. As for now, we will lost our SSH session if something from this will happen. And for solving this problem we use `tmux`:
 ```bash
-tmux new -s .
+tmux new -s xxx
 ./start-jupyter.sh
 ```
 We have just started Jupyter server in tmux session. As soon as we did it, we can close this SSH connection and all processes will retain.
