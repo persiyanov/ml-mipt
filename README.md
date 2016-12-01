@@ -10,3 +10,8 @@
   * NN Optimization -- https://cs231n.github.io/optimization-2/
   * Backpropagation Explained -- https://www.willamette.edu/~gorr/classes/cs449/backprop.html
   * Hacker's guide to Neural Networks -- https://karpathy.github.io/neuralnets/
+
+----------
+## MIPT DMIA Fall 2017
+
+* 26.11.2016: [Backpropagation, Word Embeddings, Recurrent Neural Networks](https://github.com/vkantor/MIPT_Data_Mining_In_Action_2016/blob/master/trends/hw5/DMIA2016_backprop_w2v_rnn.pdf)
